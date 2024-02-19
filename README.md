@@ -48,9 +48,9 @@ O projeto utiliza as seguintes tabelas como base:
 
 Utilizando o Power BI (ou outra ferramenta), é criado um dashboard que se conecta ao banco de dados PostgreSQL e carrega os dados da tabela "Vendas". O dashboard contém visualizações interativas para análise de vendas por cliente, produto, período, etc.
 
-![Dashboard de Vendas - Analise de Faturamento ]([url_da_imagem](https://github.com/CamilaOliver/Dash-Vendas-Airflow/blob/main/Analise%20Faturamento.png))
+![Dashboard de Vendas - Analise de Faturamento ](Analise_Faturamento.png)
 
-![Dashboard de Vendas - Analise de Cliente ]([[url_da_imagem](https://github.com/CamilaOliver/Dash-Vendas-Airflow/blob/main/Analise%20Faturamento.png))
+![Dashboard de Vendas - Analise de Cliente ](Analise_Cliente.png)
 
 ### 9. Observações
 
